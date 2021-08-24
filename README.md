@@ -1,6 +1,7 @@
 ### Hi, I'm pwais 👋
 
 [![Website](https://img.shields.io/website?label=mydiscord&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/YThVyKbNHY)
+[![Website](https://img.shields.io/website?label=blzscripts&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/3BTUeVBJ)
 
 <a href="https://discord.com/users/775710258026119168" target="_blank">
    <img src="https://lanyard-profile-readme.vercel.app/api/775710258026119168?theme=black&bg=2E4F61&animated=true&hideDiscrim=false&borderRadius=20px">
