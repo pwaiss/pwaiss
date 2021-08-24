@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=mydiscord&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/YThVyKbNHY)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:775710258026119168)](https://discord.com/users/:775710258026119168)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/775710258026119168)](https://discord.com/users/775710258026119168)
 
 ### Languages and Tools:
 
