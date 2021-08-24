@@ -1,14 +1,6 @@
-<div align="center">
-</div>
+### Languages and Tools:
 
-<p align="center">
-    <a href="https://instagram.com/reye242" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-       <a href="https://open.spotify.com/user/3dv5fpoilgfnt7oubv1qiqknf?si=0dd56722b621483b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-       <a href="https://steamcommunity.com/id/yldrmmmehmet" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
-</p>
-    <div align="center">
-   <a href="https://discord.com/users/775710258026119168" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/775710258026119168?theme=black&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px">
-   </a>
-</div>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
