@@ -1,5 +1,5 @@
 <div align="center">
-### Hi, I'm pwais 👋
+   <b>Hi, I'm pwais 👋</b>
 
 [![Website](https://img.shields.io/website?label=blzscript&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/3BTUeVBJ)
 
