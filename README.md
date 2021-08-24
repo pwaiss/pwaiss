@@ -1,6 +1,6 @@
 ### Hi, I'm pwais 👋
 
-[![Website](https://img.shields.io/website?label=mydiscord)](https://discord.gg/YThVyKbNHY)
+[![Website](https://img.shields.io/website?label=mydiscordstyle=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/YThVyKbNHY)
 
 ### Languages and Tools:
 
