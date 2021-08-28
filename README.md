@@ -1,5 +1,5 @@
 <div align="center">
-   <b>Hi, I'm Muhammed Yıldırım (A.K.A. pwais) 👋</b>
+   <b>Hi, I'm Muhammed Yıldırım (A.K.A pwais) 👋</b>
 
 [![Website](https://img.shields.io/website?label=prdev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/3BTUeVBJ)
 
