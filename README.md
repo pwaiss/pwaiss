@@ -16,5 +16,5 @@
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="center" alt="Lua" width="26px" src="https://play-lh.googleusercontent.com/DBvRY0vvmYMY2CqR07j8URfvhQ0NnS5DjQLOoL_YTXamVzR7zJVw5YYpHdbLNBiRBQ"/>
    <br></br>
-   Mail: dehseatyldrm@gmail.com
+   Mail: pwais@outlook.com
 </div>
