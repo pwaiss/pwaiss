@@ -1,5 +1,4 @@
 <div align="center">
-   <b>Hi, I'm Yıldırım (A.K.A pwais) 👋</b>
 
 ### Languages and Tools:
 
