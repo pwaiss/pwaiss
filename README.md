@@ -1,4 +1,6 @@
 <div align="center">
+
+<img align="center" alt="Lua" width="200px" src="https://cdn.discordapp.com/attachments/763449895649673256/991138161751228416/asdsadsadsadsad.png"/>
    
 ### Languages and Tools:
    
