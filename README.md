@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" alt="Lua" width="200px" src="https://cdn.discordapp.com/attachments/763449895649673256/991138161751228416/asdsadsadsadsad.png"/>
+<img align="center" alt="Lua" width="300px" src="https://cdn.discordapp.com/attachments/763449895649673256/991138604237725807/weqesadwqedsawqedsa.png"/>
    
 ### Languages and Tools:
    
